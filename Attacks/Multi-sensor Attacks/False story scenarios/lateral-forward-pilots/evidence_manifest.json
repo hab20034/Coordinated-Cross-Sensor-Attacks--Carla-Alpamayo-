@@ -1,0 +1,506 @@
+[
+  {
+    "story": "lateral",
+    "condition": "clean",
+    "file": "attacked_front.mp4",
+    "bytes": 23643892,
+    "sha256": "ab88f51dc58d53db4e65f516414ff9177b9517f16a8aa4b1ca65b22cd6c0cc5f",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "clean",
+    "file": "attacked_front_0000.png",
+    "bytes": 1935447,
+    "sha256": "55a028ba59c420eccaae6ecf922d29b58f26ef65b262f699f35738eb426a2207",
+    "in_repo": false
+  },
+  {
+    "story": "lateral",
+    "condition": "clean",
+    "file": "attacked_front_0050.png",
+    "bytes": 1921476,
+    "sha256": "3d35656db18fbcd8a6d3f29e4fbbce7f2a051dd9c5b4727491366c88f2f9af52",
+    "in_repo": false
+  },
+  {
+    "story": "lateral",
+    "condition": "clean",
+    "file": "clean_front_0000.png",
+    "bytes": 1935447,
+    "sha256": "55a028ba59c420eccaae6ecf922d29b58f26ef65b262f699f35738eb426a2207",
+    "in_repo": false
+  },
+  {
+    "story": "lateral",
+    "condition": "clean",
+    "file": "clean_front_0050.png",
+    "bytes": 1921476,
+    "sha256": "3d35656db18fbcd8a6d3f29e4fbbce7f2a051dd9c5b4727491366c88f2f9af52",
+    "in_repo": false
+  },
+  {
+    "story": "lateral",
+    "condition": "clean",
+    "file": "controls.jsonl",
+    "bytes": 74620,
+    "sha256": "b647f46241d0f86f445eabf767ef9267b0ca71436692c263ccf675665ce4ccbf",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "clean",
+    "file": "predictions.jsonl",
+    "bytes": 722081,
+    "sha256": "5f365a5ba912d55bb92732c204c9102aa3be2c741f2f4041aa90901437329256",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "clean",
+    "file": "sensors.jsonl",
+    "bytes": 118433,
+    "sha256": "256e51f5ffe7e3cce46f49e819ae4cd77dde966531b82e8160cba982703b2bee",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "clean",
+    "file": "summary.json",
+    "bytes": 3116,
+    "sha256": "1708ddedc6dea07f628e58cce91590824a47b01c20f0958dc246df782a75ffe1",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "gps_only",
+    "file": "attacked_front.mp4",
+    "bytes": 22573618,
+    "sha256": "88f2be9b573b45602ccd342acbc9df700c49f06847473c3e1ee83a3b9b7bf645",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "gps_only",
+    "file": "attacked_front_0000.png",
+    "bytes": 1935689,
+    "sha256": "5a53f2910141d9ada86e041298eb91c1d54f0e44eb563ed5a090979acc47fd19",
+    "in_repo": false
+  },
+  {
+    "story": "lateral",
+    "condition": "gps_only",
+    "file": "attacked_front_0050.png",
+    "bytes": 1828903,
+    "sha256": "531f7509c91c2b130a55790b7f8f5a51e9d674e9dd50a5ae7faa71f52fbcd41b",
+    "in_repo": false
+  },
+  {
+    "story": "lateral",
+    "condition": "gps_only",
+    "file": "clean_front_0000.png",
+    "bytes": 1935689,
+    "sha256": "5a53f2910141d9ada86e041298eb91c1d54f0e44eb563ed5a090979acc47fd19",
+    "in_repo": false
+  },
+  {
+    "story": "lateral",
+    "condition": "gps_only",
+    "file": "clean_front_0050.png",
+    "bytes": 1828903,
+    "sha256": "531f7509c91c2b130a55790b7f8f5a51e9d674e9dd50a5ae7faa71f52fbcd41b",
+    "in_repo": false
+  },
+  {
+    "story": "lateral",
+    "condition": "gps_only",
+    "file": "controls.jsonl",
+    "bytes": 74672,
+    "sha256": "8be529a8a8a3d880356a0c1c436a0f4fe1685ead83c5de25ced48d0620e7dc1b",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "gps_only",
+    "file": "predictions.jsonl",
+    "bytes": 718491,
+    "sha256": "0b74a4e52bb4f1c9336247ab72ed26df45c5a7c66c38936d46a81a8334e6d08d",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "gps_only",
+    "file": "sensors.jsonl",
+    "bytes": 118609,
+    "sha256": "a980b320e166ef7b9c1576196370ce1d2bbe293d9d3c8f68c14a50f2b1d09488",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "gps_only",
+    "file": "summary.json",
+    "bytes": 3123,
+    "sha256": "ce66d34d6872bf5e7eb276faff75ef1b652b57d3821dae7ec46c4ebef018003d",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "uncoordinated",
+    "file": "attacked_front.mp4",
+    "bytes": 21794088,
+    "sha256": "3aa4e0a842558ffdc9acb8828eaf9485eb77e7fe110232bf30a989e5d11ef4e5",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "uncoordinated",
+    "file": "attacked_front_0000.png",
+    "bytes": 1935615,
+    "sha256": "e88937d2f56e11ab316ad6f9474302ec8493785963fc6b816991b2efb908a3cf",
+    "in_repo": false
+  },
+  {
+    "story": "lateral",
+    "condition": "uncoordinated",
+    "file": "attacked_front_0050.png",
+    "bytes": 1960927,
+    "sha256": "b9d81c8b4756e6ac2a474b37c762170e6adbd1e612a80607f242377f94ece64f",
+    "in_repo": false
+  },
+  {
+    "story": "lateral",
+    "condition": "uncoordinated",
+    "file": "clean_front_0000.png",
+    "bytes": 1935615,
+    "sha256": "e88937d2f56e11ab316ad6f9474302ec8493785963fc6b816991b2efb908a3cf",
+    "in_repo": false
+  },
+  {
+    "story": "lateral",
+    "condition": "uncoordinated",
+    "file": "clean_front_0050.png",
+    "bytes": 1914004,
+    "sha256": "933a0a76360ee7dfae320863f9bb7014366796c164f3a4f7414d6168de59c7d1",
+    "in_repo": false
+  },
+  {
+    "story": "lateral",
+    "condition": "uncoordinated",
+    "file": "controls.jsonl",
+    "bytes": 75043,
+    "sha256": "d942ac5559c36af90efd6d77896440441739714dfd57ce481bd682d384bcc8b0",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "uncoordinated",
+    "file": "predictions.jsonl",
+    "bytes": 721546,
+    "sha256": "66321c162365b0dff4abd1ef974e74bc755671a74fd1b4c97ed81ddeec26aadf",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "uncoordinated",
+    "file": "sensors.jsonl",
+    "bytes": 122784,
+    "sha256": "ed4c2899e1569095e48578c6bd9f254e3265ef5f169ce0e5ff16806ed54689df",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "uncoordinated",
+    "file": "summary.json",
+    "bytes": 3185,
+    "sha256": "0cedc7542046769f692e9918010a655941be69e7e47d15bf0e1692b7068b22a5",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "coordinated",
+    "file": "attacked_front.mp4",
+    "bytes": 17961177,
+    "sha256": "882a21f2845bcd56526701efda00e9f937933b1728e06e0da87010ba52f66c52",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "coordinated",
+    "file": "attacked_front_0000.png",
+    "bytes": 1935725,
+    "sha256": "2acf4ff01d1bfe7501f03f1ed5c5202b95ac4820b75b87db461a6654dc730d83",
+    "in_repo": false
+  },
+  {
+    "story": "lateral",
+    "condition": "coordinated",
+    "file": "attacked_front_0050.png",
+    "bytes": 1888173,
+    "sha256": "2a989c72c642f03725a4c179182875602fe8195a56e52d803fa8ddf9b09ddf8f",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "coordinated",
+    "file": "clean_front_0000.png",
+    "bytes": 1935725,
+    "sha256": "2acf4ff01d1bfe7501f03f1ed5c5202b95ac4820b75b87db461a6654dc730d83",
+    "in_repo": false
+  },
+  {
+    "story": "lateral",
+    "condition": "coordinated",
+    "file": "clean_front_0050.png",
+    "bytes": 1880480,
+    "sha256": "8efb83455ea69caef5e54757327b4a0641f6d6247cc9cbd4c58b1b6eb16eaf78",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "coordinated",
+    "file": "controls.jsonl",
+    "bytes": 74797,
+    "sha256": "367cba18985127682be9c7731637ddc9e026cd3263285d1b5665334c59f1a751",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "coordinated",
+    "file": "predictions.jsonl",
+    "bytes": 719174,
+    "sha256": "52ee41897cda73c5c4bf57450b828be02e1cc15ee72fea52b6f50ea724c307c1",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "coordinated",
+    "file": "sensors.jsonl",
+    "bytes": 123173,
+    "sha256": "7c456bb6fe16fb8e25a8b95dfd3adc902381add15e1067198fc9bd18e697b0f4",
+    "in_repo": true
+  },
+  {
+    "story": "lateral",
+    "condition": "coordinated",
+    "file": "summary.json",
+    "bytes": 3132,
+    "sha256": "522e3e4095334d1d018cdff3bf73284c897ff3cb08ff13e4ad40203d2cf4a31b",
+    "in_repo": true
+  },
+  {
+    "story": "forward",
+    "condition": "gps_only",
+    "file": "attacked_front.mp4",
+    "bytes": 24657320,
+    "sha256": "6c9f890e0882439f8934f6ea3c833e79259fecaf63c4fd26d4b1cc2fcf414bdb",
+    "in_repo": true
+  },
+  {
+    "story": "forward",
+    "condition": "gps_only",
+    "file": "attacked_front_0000.png",
+    "bytes": 1935576,
+    "sha256": "512bd9673e2819be14868a80e12c0a3abb1086b08841baac665bafbb893b7540",
+    "in_repo": false
+  },
+  {
+    "story": "forward",
+    "condition": "gps_only",
+    "file": "attacked_front_0050.png",
+    "bytes": 1876714,
+    "sha256": "8166f9ca0e9197c4c59dc0564000b9fe1d9579608bb277ec02919aaebc94e361",
+    "in_repo": false
+  },
+  {
+    "story": "forward",
+    "condition": "gps_only",
+    "file": "clean_front_0000.png",
+    "bytes": 1935576,
+    "sha256": "512bd9673e2819be14868a80e12c0a3abb1086b08841baac665bafbb893b7540",
+    "in_repo": false
+  },
+  {
+    "story": "forward",
+    "condition": "gps_only",
+    "file": "clean_front_0050.png",
+    "bytes": 1876714,
+    "sha256": "8166f9ca0e9197c4c59dc0564000b9fe1d9579608bb277ec02919aaebc94e361",
+    "in_repo": false
+  },
+  {
+    "story": "forward",
+    "condition": "gps_only",
+    "file": "controls.jsonl",
+    "bytes": 74677,
+    "sha256": "52560fbaccce66590d875757602d99449522d08cc75feadcff97b6ba4c13ea8e",
+    "in_repo": true
+  },
+  {
+    "story": "forward",
+    "condition": "gps_only",
+    "file": "predictions.jsonl",
+    "bytes": 720149,
+    "sha256": "2d81e49c38c0e041fd2caca73b9a4c3ecbc1b8ed83864951dc05579eb19354ba",
+    "in_repo": true
+  },
+  {
+    "story": "forward",
+    "condition": "gps_only",
+    "file": "sensors.jsonl",
+    "bytes": 118458,
+    "sha256": "0b4f45ae8000ccec06317db61c025b25aa41ac0dda6c9a4f5a08fb44a93ea9c5",
+    "in_repo": true
+  },
+  {
+    "story": "forward",
+    "condition": "gps_only",
+    "file": "summary.json",
+    "bytes": 3129,
+    "sha256": "123f0e04d7444cde78114506369edd25ffb5d435c68b053f022dec5a707c5de1",
+    "in_repo": true
+  },
+  {
+    "story": "forward",
+    "condition": "uncoordinated",
+    "file": "attacked_front.mp4",
+    "bytes": 17921782,
+    "sha256": "e489d35da7490db1453e9261d2ee6562e11eb0704a3fbe597f0c98af892b6a4e",
+    "in_repo": true
+  },
+  {
+    "story": "forward",
+    "condition": "uncoordinated",
+    "file": "attacked_front_0000.png",
+    "bytes": 1935770,
+    "sha256": "6ff66072738c49a386ac948a49dc3161239c97e66f2e71efc547f45d44975747",
+    "in_repo": false
+  },
+  {
+    "story": "forward",
+    "condition": "uncoordinated",
+    "file": "attacked_front_0050.png",
+    "bytes": 1837552,
+    "sha256": "8b4841b7b41e1caa9df4dd92ec900fd223c0fa738ac72df41f72e6d56dd63457",
+    "in_repo": false
+  },
+  {
+    "story": "forward",
+    "condition": "uncoordinated",
+    "file": "clean_front_0000.png",
+    "bytes": 1935770,
+    "sha256": "6ff66072738c49a386ac948a49dc3161239c97e66f2e71efc547f45d44975747",
+    "in_repo": false
+  },
+  {
+    "story": "forward",
+    "condition": "uncoordinated",
+    "file": "clean_front_0050.png",
+    "bytes": 1849196,
+    "sha256": "e82494950284eb7546a407b0744b9ee07660e02632c42f7ee38b838bac74a470",
+    "in_repo": false
+  },
+  {
+    "story": "forward",
+    "condition": "uncoordinated",
+    "file": "controls.jsonl",
+    "bytes": 74978,
+    "sha256": "3d445d9241aeaa01a92942c172e40b1faf816f5211487b9e7c4b9e82842ca760",
+    "in_repo": true
+  },
+  {
+    "story": "forward",
+    "condition": "uncoordinated",
+    "file": "predictions.jsonl",
+    "bytes": 719673,
+    "sha256": "202964fae82789838d8af327da61637860ef369f7589ecebb0d0c7b45afbd317",
+    "in_repo": true
+  },
+  {
+    "story": "forward",
+    "condition": "uncoordinated",
+    "file": "sensors.jsonl",
+    "bytes": 122811,
+    "sha256": "2ac8d0df755cdcf6ac67968f7ae377a2eda3238367cb7f0f85170f2fb5dbfc3c",
+    "in_repo": true
+  },
+  {
+    "story": "forward",
+    "condition": "uncoordinated",
+    "file": "summary.json",
+    "bytes": 3191,
+    "sha256": "f4fbe4cc0f471503069912c3e8b3a08525e405db4ce83c07ef80e03f5b02cf10",
+    "in_repo": true
+  },
+  {
+    "story": "forward",
+    "condition": "coordinated",
+    "file": "attacked_front.mp4",
+    "bytes": 17167511,
+    "sha256": "0c066b42d7c8086399cd4796da6dff2abde55d09e92c41e2defde16f9620d01c",
+    "in_repo": true
+  },
+  {
+    "story": "forward",
+    "condition": "coordinated",
+    "file": "attacked_front_0000.png",
+    "bytes": 1935874,
+    "sha256": "a843adfc7a81eeedde8801d3cdf06d3706c74c09b8cb4889e0d06e365370c69b",
+    "in_repo": false
+  },
+  {
+    "story": "forward",
+    "condition": "coordinated",
+    "file": "attacked_front_0050.png",
+    "bytes": 1603804,
+    "sha256": "8d1af4e9bebbb7ca04ec2199a215c60fcece9931319f61a237672752cb80054b",
+    "in_repo": true
+  },
+  {
+    "story": "forward",
+    "condition": "coordinated",
+    "file": "clean_front_0000.png",
+    "bytes": 1935874,
+    "sha256": "a843adfc7a81eeedde8801d3cdf06d3706c74c09b8cb4889e0d06e365370c69b",
+    "in_repo": false
+  },
+  {
+    "story": "forward",
+    "condition": "coordinated",
+    "file": "clean_front_0050.png",
+    "bytes": 1953260,
+    "sha256": "b23c31fce4f83e1688516e2c3f5505a8d480606e0cb5b7ef1ece61943b3cb526",
+    "in_repo": true
+  },
+  {
+    "story": "forward",
+    "condition": "coordinated",
+    "file": "controls.jsonl",
+    "bytes": 74486,
+    "sha256": "9fabbca3acd8fef877d4114f7417e74681051d0a274eeb21cc4cdeb634dba0d8",
+    "in_repo": true
+  },
+  {
+    "story": "forward",
+    "condition": "coordinated",
+    "file": "predictions.jsonl",
+    "bytes": 719175,
+    "sha256": "642262966aeb5f0a05eae7fb22366fb552dca3ab32cb9c86cebe2e8abe7befc4",
+    "in_repo": true
+  },
+  {
+    "story": "forward",
+    "condition": "coordinated",
+    "file": "sensors.jsonl",
+    "bytes": 123044,
+    "sha256": "dd2529e39afbd3113e05e1d7c684116694674470d051f202ea7e8237a63c2c0a",
+    "in_repo": true
+  },
+  {
+    "story": "forward",
+    "condition": "coordinated",
+    "file": "summary.json",
+    "bytes": 3142,
+    "sha256": "da83f40bdd6e09ea7843abd5fb733da85675d7eea0bd461d2ef11f2ce70b3e8f",
+    "in_repo": true
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "status": "completed",
+  "arguments": {
+    "command": "run",
+    "output": "results/verification_20261103_013246/coordinated",
+    "story": "lateral",
+    "onset": 2.0,
+    "duration": 3.0,
+    "seed": 42,
+    "magnitude": 1.0,
+    "steps": 100,
+    "spawn_index": 10,
+    "host": "localhost",
+    "port": 2000,
+    "tm_port": 8000,
+    "no_video": false,
+    "speed_policy": "timed_lookahead",
+    "camera_postprocess": "off",
+    "condition": "coordinated",
+    "restore": null,
+    "width": 1920,
+    "height": 1080,
+    "map": "",
+    "reset_world": true,
+    "navigation_text": "",
+    "capture_diagnostics": false
+  },
+  "predictions": 100,
+  "collisions": [],
+  "max_position_error_m": 1.0260736505063839,
+  "max_offroad_consecutive": 0,
+  "scope": "Bounded fixed-spawn planar study, not route completion or real-world spoofing",
+  "controller_feedback": "CARLA truth; attacks affect estimator/model history and camera only",
+  "camera": "Flat-ground homography approximation; non-road geometry/occlusions not consistent",
+  "estimator": "Uploaded fixed-gain planar prototype; always used in all four conditions",
+  "source_hashes": {
+    "experiment.py": "ce6eabf02dadfcd00c6dec94d3ff89a95760eb4c55b78aeb5d32a7b8a5289a71",
+    "attack_profiles.py": "8f69ff3718c6d8e43cb08487959eab118e948921a8e768f19229288693fd2ae8",
+    "gps_imu_estimator.py": "973870ed78ecafbbd05073b4355392d3ba306ad7c14c337d4c29ef43108ea456",
+    "module/pid_controller.py": "00b581824252a6b5dd945b27f7ddf1506869777aeb786e06c219c4c5fff6c909",
+    "module/adapters/alpamayo_1_5.py": "dd6fb56b7d50e52a21a0cd5bcec4e1c8fe77b7624a1a7e570f2a1c22d63e9926",
+    "module/config.py": "265d3092333f6ef6fbdeaa1c30625ffac5b5a971abbdf74941592c5278351a91",
+    "module/carla_interface.py": "17ec237786372b013bb7b60d0feab0d3bb355aaa7c8721f8fe06359b611cb964",
+    "module/vlm_generate_optimization.py": "cc502fbb1f57449addcbd6d4b10a499d45731255da4a0231d6ef50e03b656c6a"
+  },
+  "client_version": "0.9.16",
+  "server_version": "0.9.16",
+  "map": "Carla/Maps/Town10HD_Opt",
+  "spawn_transform": "Transform(Location(x=0.000000, y=0.000000, z=0.000000), Rotation(pitch=0.000000, yaw=0.000000, roll=0.000000))",
+  "attack": {
+    "condition": "coordinated",
+    "restore": null,
+    "profiles": {
+      "gps": {
+        "kind": "lateral",
+        "magnitude": 1.0,
+        "onset": 2.0,
+        "duration": 3.0,
+        "anchor_yaw": 0.010415001711573169
+      },
+      "imu": {
+        "kind": "lateral",
+        "magnitude": 1.0,
+        "onset": 2.0,
+        "duration": 3.0,
+        "anchor_yaw": 0.010415001711573169
+      },
+      "camera": {
+        "kind": "lateral",
+        "magnitude": 1.0,
+        "onset": 2.0,
+        "duration": 3.0,
+        "anchor_yaw": 0.010415001711573169
+      }
+    },
+    "camera_method": "Ground-plane homography; approximate for objects above road, slopes and occlusions",
+    "heading_gps_only": "No GPS change: single-fix GNSS has no heading channel"
+  },
+  "distance_travelled_m": 36.75106617594862,
+  "displacement_m": 36.64525010449365,
+  "attack_window_reached": true,
+  "verified_predictions": 100,
+  "cleanup_errors": []
+}
